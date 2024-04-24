@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-04-24T23:27:43.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="4GTqycncCE0UKUAsdyXx" version="24.3.0" type="github">
+  <diagram name="Page-1" id="Lo8HSTnLHUTpEW-vd8Br">
+    <mxGraphModel dx="786" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y3UnYj8FbFtQByEBO_pm-288" value="Growing of other non-perennial crops" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=17;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="825" y="410" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="34PX9lcjR3mRGtkqlF1x-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="520" as="sourcePoint" />
+            <mxPoint x="1280" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="34PX9lcjR3mRGtkqlF1x-6" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;0119Z&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="890" y="470" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="34PX9lcjR3mRGtkqlF1x-7" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;0113Y&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1281" y="350" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="34PX9lcjR3mRGtkqlF1x-8" value="&lt;div&gt;Growing of vegetables and melons,&amp;nbsp;&lt;/div&gt;&lt;div&gt;roots and tubers&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=17;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1246" y="280" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFNGRcDVPWBYPcG1ib8G-1" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;0119Y&lt;/font&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="630" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xFNGRcDVPWBYPcG1ib8G-2" value="&lt;div&gt;Growing of other non-perennial crops&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=17;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="585" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFNGRcDVPWBYPcG1ib8G-3" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=-0.007;entryY=0.615;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="xFNGRcDVPWBYPcG1ib8G-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="520" as="sourcePoint" />
+            <mxPoint x="1280" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
