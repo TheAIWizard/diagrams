@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T14:40:12.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="oWftIF_LBpJ5vOjrWOob" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T14:48:58.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="saL1fzs6ryrvV_E16dbh" version="24.3.1" type="github">
   <diagram name="Page-1" id="bldviGOM2PhAeHIemhQr">
     <mxGraphModel dx="2528" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="nuFWUcpPF0rGU9AWCKzl-14" value="Sirene 4&lt;div&gt;workflow des demandes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Work Sans;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" parent="1" vertex="1">
           <mxGeometry x="-500" y="312.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nuFWUcpPF0rGU9AWCKzl-15" value="Données en entrée de l&#39;API de codification pour le flux de demandes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontFamily=Work Sans;strokeColor=#006EAF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="nuFWUcpPF0rGU9AWCKzl-15" value="Filtre des données en entrée + appel de l&#39;API de codification&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontFamily=Work Sans;strokeColor=#006EAF;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-320" y="312.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nuFWUcpPF0rGU9AWCKzl-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -156,6 +156,12 @@
             <mxPoint x="820" y="642" as="sourcePoint" />
             <mxPoint x="990" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8IFikEqnszTTeRoyrfuK-15" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="120" width="830" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8IFikEqnszTTeRoyrfuK-16" value="&lt;font face=&quot;Work sans&quot;&gt;&lt;i&gt;&lt;b&gt;API de codification pour le flux de demandes&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="135" y="80" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
