@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T17:25:36.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="vn2RPdmF3URVEM8ML4pK" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T17:28:35.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ipGG9R5CAyhAlJy_UFCa" version="24.6.2" type="github">
   <diagram name="Page-1" id="qdVHiyYg8f9BKUNEij3J">
-    <mxGraphModel dx="3764" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3526" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wSmamIy-QW6w1RSmSMdU-48" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Reprise gestionnaire&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;fontSize=20;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1000" width="120" height="120" as="geometry" />
+          <mxGeometry x="120" y="1100" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wSmamIy-QW6w1RSmSMdU-103" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;rotation=90;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
           <mxGeometry x="-1075" y="930" width="160" height="70" as="geometry" />
@@ -237,7 +237,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wSmamIy-QW6w1RSmSMdU-111" value="&amp;nbsp;Multivoques NAF 2025 du code 1 proposé NAF 2008" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-825" y="1160" width="110" height="110" as="geometry" />
+          <mxGeometry x="-825" y="1190" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wSmamIy-QW6w1RSmSMdU-113" value="Code 1 proposé&lt;div&gt;NAF 2025&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-825" y="920" width="110" height="110" as="geometry" />
@@ -289,10 +289,10 @@
             <mxPoint x="-224" y="1061" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wSmamIy-QW6w1RSmSMdU-144" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.833;entryDx=0;entryDy=0;exitX=0;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="wSmamIy-QW6w1RSmSMdU-96" target="wSmamIy-QW6w1RSmSMdU-111">
+        <mxCell id="wSmamIy-QW6w1RSmSMdU-144" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.003;exitY=0.332;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wSmamIy-QW6w1RSmSMdU-96" target="wSmamIy-QW6w1RSmSMdU-111">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520.5700000000002" y="1250" as="sourcePoint" />
-            <mxPoint x="-715" y="1251.58" as="targetPoint" />
+            <mxPoint x="-520" y="1251.58" as="sourcePoint" />
+            <mxPoint x="-710" y="1250" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -306,6 +306,12 @@
               <mxPoint x="-850.11" y="1240" />
               <mxPoint x="-940.11" y="1238" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSmamIy-QW6w1RSmSMdU-148" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wSmamIy-QW6w1RSmSMdU-113" target="wSmamIy-QW6w1RSmSMdU-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-902" y="970" as="sourcePoint" />
+            <mxPoint x="-852" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
