@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T17:41:06.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Lyli6xxyOkGdN7Q9iH4t" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T17:45:04.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="pBhpnE1DXz8S2bt17E6m" version="24.6.3" type="github">
   <diagram name="Page-1" id="qdVHiyYg8f9BKUNEij3J">
-    <mxGraphModel dx="4069" dy="2556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4286" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,6 +504,18 @@
         </mxCell>
         <mxCell id="fVetmA5IXUWIr9gg3zsg-5" value="Proconnect/FranceConnect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=#dae8fc;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="750.0007469500838" y="-509.9995084152471" as="geometry" />
+        </mxCell>
+        <mxCell id="fVetmA5IXUWIr9gg3zsg-10" value="&lt;div&gt;Contestation&lt;/div&gt;&lt;div&gt;APE NAF2025&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-493" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fVetmA5IXUWIr9gg3zsg-11" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#666666;fillColor=#f5f5f5;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;fontColor=#333333;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-590" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fVetmA5IXUWIr9gg3zsg-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fVetmA5IXUWIr9gg3zsg-10" target="UrDVTEaT_6tUGHthFSmy-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="-430" as="sourcePoint" />
+            <mxPoint x="460" y="-486" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
