@@ -199,7 +199,7 @@
             <mxPoint x="875" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PrI9KaRf1beF4u_ZDY7f-5" value="&lt;h2&gt;WS applicatif codification&lt;br&gt;&lt;/h2&gt;&lt;h2&gt;(côté workflow)&lt;br&gt;&lt;/h2&gt;&lt;h2&gt;/codification-naf2025&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Work Sans;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="PrI9KaRf1beF4u_ZDY7f-5" value="&lt;h2&gt;WS applicatif codification&lt;br&gt;&lt;/h2&gt;&lt;h2&gt;(côté workflow)&lt;br&gt;&lt;/h2&gt;&lt;h2&gt;/codification-nouvelle-naf&lt;br&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Work Sans;strokeColor=#6c8ebf;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="10" y="670" width="550" height="400" as="geometry" />
         </mxCell>
         <mxCell id="PrI9KaRf1beF4u_ZDY7f-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PrI9KaRf1beF4u_ZDY7f-6">
