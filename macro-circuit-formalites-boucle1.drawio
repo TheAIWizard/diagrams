@@ -154,8 +154,8 @@
         <mxCell id="i8bNqoPtruIVvCRmiNr9-46" value="&lt;i style=&quot;font-family: &amp;quot;Work sans&amp;quot;; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;XML&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="411.25" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i8bNqoPtruIVvCRmiNr9-49" value="Transmission: SIREN,NIC,APE, Adresse, ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="917.4300000000001" y="470" width="150" height="30" as="geometry" />
+        <mxCell id="i8bNqoPtruIVvCRmiNr9-49" value="SIREN,NIC,APE, Adresse, ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="787.5000000000001" y="465" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i8bNqoPtruIVvCRmiNr9-52" value="&lt;div&gt;Gestion infos de traitement&lt;/div&gt;&lt;div&gt;Ex: calcul APE, NIC réservé&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="432" y="770" width="235" height="30" as="geometry" />
