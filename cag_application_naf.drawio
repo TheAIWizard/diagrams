@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9ViOHT1SHME7KbWjX62-1" value="Données codification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-2250" y="1316" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2250" y="1315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9ViOHT1SHME7KbWjX62-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#666666;fillColor=#f5f5f5;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.approver;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-2215" y="1250" width="60" height="60" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rea1Nq0urrbimVjVN_bZ-6" value="Libellé d&#39;activité" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-2040" y="1316" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2040" y="1315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rea1Nq0urrbimVjVN_bZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rea1Nq0urrbimVjVN_bZ-7" target="5iqBXnzq-JTinNB5eCyv-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
