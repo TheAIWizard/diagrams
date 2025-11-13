@@ -158,6 +158,9 @@
         <mxCell id="9Mv8wrxzkHXrD0z4fWxj-23" value="í ½í³ƒí ¼í¾­Prompt systÃ¨me&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-1525" y="1170" width="130" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="9Mv8wrxzkHXrD0z4fWxj-25" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Injection du contexte&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="1400" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
