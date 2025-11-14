@@ -57,6 +57,12 @@
         <mxCell id="EBugLfJUg-9z5evX0BNv-3" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px; color: rgb(255, 51, 51);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Erreur coûteuse&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2020" y="1380" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EBugLfJUg-9z5evX0BNv-5" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=8;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1870" y="1600" as="sourcePoint" />
+            <mxPoint x="-1650" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
