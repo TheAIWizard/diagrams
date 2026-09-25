@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0">
   <diagram name="Page-1" id="T7no24166q1Ip-7MRX3Q">
-    <mxGraphModel dx="3752" dy="-48" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3628" dy="-129" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="6phS40-fBOon4p48KZy2-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 17px; color: rgb(102, 204, 0);&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Bulk processing&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="-1540" y="1160" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Expert humain&lt;/font&gt;&lt;/b&gt;" link="&#xa;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Injection du contexte&lt;/font&gt;&lt;/div&gt;&#xa;&#xa;" id="qvAEgDEQ08W9dncuYlTF-1">
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Human expert&lt;/font&gt;&lt;/b&gt;" link="&#xa;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Injection du contexte&lt;/font&gt;&lt;/div&gt;&#xa;&#xa;" id="qvAEgDEQ08W9dncuYlTF-1">
           <mxCell parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1">
             <mxGeometry height="150" width="90" x="-2120" y="1210" as="geometry" />
           </mxCell>
@@ -63,9 +63,9 @@
             <mxPoint x="-1650" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="&lt;h1&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Métier&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" link="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Expert humain&lt;/font&gt;&lt;/b&gt;" id="EBugLfJUg-9z5evX0BNv-6">
+        <UserObject label="&lt;h1&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Business&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" link="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Expert humain&lt;/font&gt;&lt;/b&gt;" id="EBugLfJUg-9z5evX0BNv-6">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
-            <mxGeometry height="40" width="160" x="-2120" y="1040" as="geometry" />
+            <mxGeometry height="40" width="160" x="-2140" y="1040" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;h1&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;&lt;b&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Innovation&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" link="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;Expert humain&lt;/font&gt;&lt;/b&gt;" id="EBugLfJUg-9z5evX0BNv-7">
